@@ -372,13 +372,31 @@ For licensing inquiries or commercial use discussions, please contact me directl
 
 **Erfan Alin** - Full Stack Developer
 
+<div align="center">
+
+[![Portfolio][portfolio-shield]][portfolio-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![GitHub][github-shield]][github-url]
+[![Facebook][facebook-shield]][facebook-url]
+[![Instagram][instagram-shield]][instagram-url]
 
-- **Email:** md.erfanul.haque0@gmail.com
-- **GitHub:** [@erfanal1n](https://github.com/erfanal1n)
-- **Project Link:** [https://github.com/erfanal1n/EAZAAR-FULL-STACK-E-COMMERCE-](https://github.com/erfanal1n/EAZAAR-FULL-STACK-E-COMMERCE-)
+</div>
+
+### 🌐 Professional Links
+- **💼 Portfolio:** [https://erfan-alin.vercel.app/](https://erfan-alin.vercel.app/)
+- **💼 LinkedIn:** [https://www.linkedin.com/in/md-erfanul-haque-311042332/](https://www.linkedin.com/in/md-erfanul-haque-311042332/)
+- **📧 Email:** md.erfanul.haque0@gmail.com
+- **🐙 GitHub:** [@erfanal1n](https://github.com/erfanal1n)
+
+### 🚀 Project Links
+- **📁 Repository:** [https://github.com/erfanal1n/EAZAAR-FULL-STACK-E-COMMERCE-](https://github.com/erfanal1n/EAZAAR-FULL-STACK-E-COMMERCE-)
+- **🌐 Live Demo:** [EAZAAR Frontend](https://eazaar-frontend.vercel.app/)
+- **🎛️ Admin Panel:** [EAZAAR Admin](https://eazaar-admin.vercel.app/)
+
+### 📱 Social Media
+- **📘 Facebook:** [https://www.facebook.com/erfanverse](https://www.facebook.com/erfanverse)
+- **📸 Instagram:** [https://www.instagram.com/__YOU_KNOW_WHOO__/](https://www.instagram.com/__YOU_KNOW_WHOO__/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -442,12 +460,18 @@ For licensing inquiries or commercial use discussions, please contact me directl
 [issues-url]: https://github.com/erfanal1n/EAZAAR-FULL-STACK-E-COMMERCE-/issues
 [license-shield]: https://img.shields.io/github/license/erfanal1n/EAZAAR-FULL-STACK-E-COMMERCE-.svg?style=for-the-badge
 [license-url]: https://github.com/erfanal1n/EAZAAR-FULL-STACK-E-COMMERCE-/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/erfan-alin
+[portfolio-shield]: https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
+[portfolio-url]: https://erfan-alin.vercel.app/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/md-erfanul-haque-311042332/
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:md.erfanul.haque0@gmail.com
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [github-url]: https://github.com/erfanal1n
+[facebook-shield]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+[facebook-url]: https://www.facebook.com/erfanverse
+[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/__YOU_KNOW_WHOO__/
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
